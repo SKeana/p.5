@@ -11,8 +11,11 @@ function draw() {
   background(220, 200, 200); // A light pink background, similar to the video
 
   // The line is drawn first, so it will be behind the rectangle
-  line(0, 50, 400, 300);
+  //line(0, 50, 400, 300);
 
   // The rectangle
-  rect(150, 75, 150, 150);
+  rect(130, 75, 150, 150);
 }
+
+
+// this is the starter video that i am watching to learn (https://www.youtube.com/watch?v=c3TeLi6Ns1E)
