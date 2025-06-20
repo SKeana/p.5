@@ -15,11 +15,8 @@ function draw() {
 }
 
 
-// this watching to learn (https://www.youtube.com/watch?v=riiJTF5-N7c)
+// this watching to learn (https://www.youtube.com/watch?v=LuGsp5KeJMM)
 /*
-There are different way to do colour with p5 but this way that we are learning in this lesson is using RGB. The amount rang is from 0-225 (that means there are 226 optiong).
-This lesson is mostly about the different type and way of colouring and the doc has a secontion on it (https://p5js.org/reference/), The order of the shapes and colour follow
-the same idea on what come first work on what come after, so to change the color of shap one you would make the fill and stoke before and to have a different colour you would
-do another fill and stoke before shape 2.
+
 
 */
