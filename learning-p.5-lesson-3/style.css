@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  min-height: 100vh; /* Make sure body takes full viewport height */
+  background-color: #f0f0f0; /* Light grey background for the page */
+  overflow: hidden; /* Hide scrollbars if canvas is larger than viewport */
+}
+
+canvas {
+  display: block; /* Remove extra space below canvas */
+  border: 1px solid #ccc; /* Add a subtle border to the canvas */
+}
