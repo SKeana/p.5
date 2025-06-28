@@ -13,6 +13,5 @@ function draw() {
 
 // this watching to learn (https://www.youtube.com/watch?v=T26OJGjI8qI)
 /*
- 
-
+ there are many different way to write code and sometime it comes to a point that without knowing doesn't make sense unless you already know a lot about the coding 
 */
